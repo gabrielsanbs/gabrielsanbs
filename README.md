@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá, eu sou o Gabriel Alves! 👋</h1>
-  <h3>🎓 Estudante de Desenvolvimento Full Stack</h3>
+  <h1>Hello, I'm Gabriel Alves! 👋</h1>
+  <h3>🎓 Full Stack Development Student</h3>
   
   <p>
     <b>JavaScript | Vue.js | Node.js | Python | DevOps</b>
@@ -10,22 +10,22 @@
     <img src="https://img.shields.io/badge/Portfolio-gabrielsanbs.dev-blue?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-alves-056b3884/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:contact@gabrielsanbs.dev">
-    <img src="https://img.shields.io/badge/Email-Entrar_em_contato-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </div>
 
 <br />
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Sou estudante de **Desenvolvimento Full Stack**, unindo criatividade e performance técnica.
+I am a **Full Stack Development** student, combining creativity with technical performance.
 
-Minha jornada é única: trago um background sólido em **Design Gráfico & UI/UX**, o que me permite criar interfaces amigáveis, combinado com anos de experiência prática gerenciando **Servidores Linux e Infraestrutura**.
+My journey is unique: I bring a solid background in **Graphic Design & UI/UX**, which allows me to create user-friendly interfaces, combined with years of hands-on experience managing **Linux Servers and Infrastructure**.
 
-Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de software e DevOps, buscando oportunidades de estágio para aplicar meu conhecimento em projetos reais.
+Currently, I am focused on honing my skills in software architecture and DevOps, seeking internship opportunities to apply my knowledge in real-world projects.
 
 ---
 
@@ -36,8 +36,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de softw
 ### Front-end & Design
 <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
 ### Back-end
@@ -55,7 +53,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de softw
 
 <br />
 
-## ⚡ Estatísticas
+## ⚡ Stats
 
 <div align="center">
   <a href="https://github.com/gabrielsanbs">
