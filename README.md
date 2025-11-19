@@ -21,11 +21,11 @@
 
 ## 🚀 Sobre Mim
 
-[cite_start]Sou estudante de **Desenvolvimento Full Stack** na Estácio **[cite: 11, 12]**, unindo criatividade e performance técnica. 
+Sou estudante de **Desenvolvimento Full Stack**, unindo criatividade e performance técnica.
 
-[cite_start]Minha jornada é única: trago um background sólido em **Design Gráfico & UI/UX** **[cite: 7, 13][cite_start]**, o que me permite criar interfaces amigáveis, combinado com anos de experiência prática gerenciando **Servidores Linux e Infraestrutura** ****.
+Minha jornada é única: trago um background sólido em **Design Gráfico & UI/UX**, o que me permite criar interfaces amigáveis, combinado com anos de experiência prática gerenciando **Servidores Linux e Infraestrutura**.
 
-[cite_start]Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de software e DevOps, buscando oportunidades de estágio para aplicar meu conhecimento em projetos reais **[cite: 8, 9]**.
+Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de software e DevOps, buscando oportunidades de estágio para aplicar meu conhecimento em projetos reais.
 
 ---
 
@@ -63,7 +63,7 @@
   </a>
   <br/><br/>
   <a href="https://github.com/gabrielsanbs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanbs&layout=compact&theme=dracula&hide_border=true" alt="Gabriel Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanbs&layout=compact&theme=dracula&hide_border=true&hide=java" alt="Gabriel Languages" />
   </a>
 </div>
 
