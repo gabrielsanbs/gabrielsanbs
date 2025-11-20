@@ -19,7 +19,7 @@
 
 <br />
 
-## 🚀 About Me
+## About Me
 
 I am a **Full Stack Development** student, combining creativity with technical performance.
 
@@ -29,7 +29,7 @@ Currently, I am focused on honing my skills in software architecture and DevOps,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Currently, I am focused on honing my skills in software architecture and DevOps,
 
 <br />
 
-## ⚡ Stats
+## Stats
 
 <div align="center">
   <a href="https://github.com/gabrielsanbs">
