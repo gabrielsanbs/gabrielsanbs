@@ -3,7 +3,7 @@
   <h3>🎓 Full Stack Development Student</h3>
   
   <p>
-    <b>JavaScript | Vue.js | Node.js | Python | DevOps</b>
+    <b>JavaScript | TypeScript | Vue.js | Node.js | Python | DevOps</b>
   </p>
 
   <a href="https://www.gabrielsanbs.dev">
@@ -25,7 +25,7 @@ I am a **Full Stack Development** student, combining creativity with technical p
 
 My journey is unique: I bring a solid background in **Graphic Design & UI/UX**, which allows me to create user-friendly interfaces, combined with years of hands-on experience managing **Linux Servers and Infrastructure**.
 
-Currently, I am focused on honing my skills in software architecture and DevOps, seeking internship opportunities to apply my knowledge in real-world projects.
+Currently, I am focused on honing my skills in software architecture (REST APIs) and DevOps, seeking internship opportunities to apply my knowledge in real-world projects.
 
 ---
 
@@ -38,10 +38,13 @@ Currently, I am focused on honing my skills in software architecture and DevOps,
 <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
-### Back-end
+### Back-end & Architecture
 <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<br/>
+<img src="https://img.shields.io/badge/Architecture-REST%20API-005571?style=for-the-badge&logo=postman" alt="REST API">
 
 ### Infra & DevOps
 <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -57,11 +60,11 @@ Currently, I am focused on honing my skills in software architecture and DevOps,
 
 <div align="center">
   <a href="https://github.com/gabrielsanbs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsanbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Gabriel Stats" />
+  <img align="center" src="https://SEU-LINK-DA-VERCEL.vercel.app/api?username=gabrielsanbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Gabriel Stats" />
   </a>
   <br/><br/>
   <a href="https://github.com/gabrielsanbs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanbs&layout=compact&theme=dracula&hide_border=true&hide=java" alt="Gabriel Languages" />
+  <img align="center" src="https://SEU-LINK-DA-VERCEL.vercel.app/api/top-langs/?username=gabrielsanbs&layout=compact&theme=dracula&hide_border=true&count_private=true&hide=java" alt="Gabriel Languages" />
   </a>
 </div>
 
