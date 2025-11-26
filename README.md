@@ -43,7 +43,7 @@ Currently, I am focused on honing my skills in software architecture (REST APIs)
 <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Architecture-REST%20API-005571?style=for-the-badge&logo=postman" alt="REST API">
 
 ### Infra & DevOps
@@ -60,11 +60,13 @@ Currently, I am focused on honing my skills in software architecture (REST APIs)
 
 <div align="center">
   <a href="https://github.com/gabrielsanbs">
-  <img align="center" src="https://SEU-LINK-DA-VERCEL.vercel.app/api?username=gabrielsanbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Gabriel Stats" />
+  <img align="center" src="https://github-readme-stats-alpha-five-22dh9dpfuf.vercel.app/api?username=gabrielsanbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Gabriel Stats" />
   </a>
+  
   <br/><br/>
+
   <a href="https://github.com/gabrielsanbs">
-  <img align="center" src="https://SEU-LINK-DA-VERCEL.vercel.app/api/top-langs/?username=gabrielsanbs&layout=compact&theme=dracula&hide_border=true&count_private=true&hide=java" alt="Gabriel Languages" />
+  <img align="center" src="https://github-readme-stats-alpha-five-22dh9dpfuf.vercel.app/api/top-langs/?username=gabrielsanbs&layout=compact&theme=dracula&hide_border=true&count_private=true&hide=java" alt="Gabriel Languages" />
   </a>
 </div>
 
