@@ -66,7 +66,7 @@ Currently, I am focused on honing my skills in software architecture (REST APIs)
   <br/><br/>
 
   <a href="https://github.com/gabrielsanbs">
-  <img align="center" src="https://github-readme-stats-alpha-five-22dh9dpfuf.vercel.app/api/top-langs/?username=gabrielsanbs&layout=compact&theme=dracula&hide_border=true&count_private=true&hide=java" alt="Gabriel Languages" />
+  <img align="center" src="https://github-readme-stats-alpha-five-22dh9dpfuf.vercel.app/api/top-langs/?username=gabrielsanbs&layout=compact&theme=dracula&hide_border=true&count_private=true&hide=java&v=1" alt="Gabriel Languages" />
   </a>
 </div>
 
