@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🧬 `> whoami`
+## `> whoami`
 
 Sou estudante de **Desenvolvimento Full Stack** — e não, eu não comecei pelo código.
 
@@ -37,17 +37,17 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
 
 <br/>
 
-## ⚔️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 🎨 Front-end & Design
+### Front-end & Design
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-1a0533?style=for-the-badge&logo=vuedotjs&logoColor=c77dff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=c77dff)
 ![Figma](https://img.shields.io/badge/Figma-1a0533?style=for-the-badge&logo=figma&logoColor=c77dff)
 
-### ⚙️ Back-end & Architecture
+### Back-end & Architecture
 
 ![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=nodedotjs&logoColor=c77dff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=c77dff)
@@ -55,9 +55,9 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
 ![Rust](https://img.shields.io/badge/Rust-1a0533?style=for-the-badge&logo=rust&logoColor=c77dff)
 ![MySQL](https://img.shields.io/badge/MySQL-1a0533?style=for-the-badge&logo=mysql&logoColor=c77dff)
 
-![REST APIs](https://img.shields.io/badge/⚡_REST_APIs-7B2FBE?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7B2FBE?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🛠️ Infra & DevOps
+### Infra & DevOps
 
 ![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=c77dff)
 ![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=c77dff)
@@ -68,7 +68,7 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
 
 <br/>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
 
 <br/>
 
-## 🐍 Watch My Contributions Get Eaten
+## Watch My Contributions Get Eaten
 
 <div align="center">
 
