@@ -29,11 +29,11 @@
 
 ## `> whoami`
 
-Sou estudante de **Desenvolvimento Full Stack** — e não, eu não comecei pelo código.
+I'm a **Full Stack Development** student — and no, I didn't start with code.
 
-Minha origin story começa no **Design Gráfico e UI/UX**, onde aprendi a pensar na experiência antes da feature. Depois vieram anos administrando **servidores Linux e infraestrutura**, quebrando e consertando coisas em produção (classic). Hoje junto tudo isso pra construir software que funciona, escala e faz sentido pro usuário.
+My origin story begins in **Graphic Design & UI/UX**, where I learned to think about the experience before the feature. Then came years managing **Linux servers and infrastructure**, breaking and fixing things in production (classic). Today I bring it all together to build software that works, scales, and actually makes sense for the user.
 
-Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio/oportunidade onde eu possa meter a mão na massa de verdade.
+Currently focused on: **REST API architecture**, **DevOps**, and finding an internship where I can get my hands dirty for real.
 
 <br/>
 
@@ -42,24 +42,27 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
 <div align="center">
 
 ### Front-end & Design
-<img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+
+![Vue.js](https://img.shields.io/badge/Vue.js-1a0533?style=for-the-badge&logo=vuedotjs&logoColor=c77dff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=c77dff)
+![Figma](https://img.shields.io/badge/Figma-1a0533?style=for-the-badge&logo=figma&logoColor=c77dff)
 
 ### Back-end & Architecture
-<img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
-<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<br/><br/>
-<img src="https://img.shields.io/badge/Architecture-REST%20APIs-7B2FBE?style=for-the-badge&logo=postman&logoColor=white" alt="REST API">
+
+![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=nodedotjs&logoColor=c77dff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=c77dff)
+![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c77dff)
+![Rust](https://img.shields.io/badge/Rust-1a0533?style=for-the-badge&logo=rust&logoColor=c77dff)
+![MySQL](https://img.shields.io/badge/MySQL-1a0533?style=for-the-badge&logo=mysql&logoColor=c77dff)
+
+![REST APIs](https://img.shields.io/badge/Architecture-REST%20APIs-7B2FBE?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Infra & DevOps
-<img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+
+![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=c77dff)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=c77dff)
+![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=c77dff)
+![GCP](https://img.shields.io/badge/Google_Cloud-1a0533?style=for-the-badge&logo=googlecloud&logoColor=c77dff)
 
 </div>
 
@@ -74,20 +77,6 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
   <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielsanbs&theme=midnight-purple&hide_border=true&background=0d1117&ring=7B2FBE&fire=c77dff&currStreakLabel=c77dff&sideLabels=c77dff&dates=8B8B8B" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## Watch My Contributions Get Eaten
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielsanbs/gabrielsanbs/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielsanbs/gabrielsanbs/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielsanbs/gabrielsanbs/output/github-snake-dark.svg" />
-  </picture>
 
 </div>
 
