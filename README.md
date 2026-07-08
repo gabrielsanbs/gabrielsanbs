@@ -46,15 +46,15 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=vuedotjs&logoColor=c77dff" alt="Vue.js"/><br/>
+      <img src="https://cdn.simpleicons.org/vuedotjs/c77dff" width="50" alt="Vue.js"/><br/>
       <sub><b>Vue.js</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=javascript&logoColor=c77dff" alt="JavaScript"/><br/>
+      <img src="https://cdn.simpleicons.org/javascript/c77dff" width="50" alt="JavaScript"/><br/>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=figma&logoColor=c77dff" alt="Figma"/><br/>
+      <img src="https://cdn.simpleicons.org/figma/c77dff" width="50" alt="Figma"/><br/>
       <sub><b>Figma</b></sub>
     </td>
   </tr>
@@ -65,23 +65,23 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=nodedotjs&logoColor=c77dff" alt="Node.js"/><br/>
+      <img src="https://cdn.simpleicons.org/nodedotjs/c77dff" width="50" alt="Node.js"/><br/>
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=typescript&logoColor=c77dff" alt="TypeScript"/><br/>
+      <img src="https://cdn.simpleicons.org/typescript/c77dff" width="50" alt="TypeScript"/><br/>
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=python&logoColor=c77dff" alt="Python"/><br/>
+      <img src="https://cdn.simpleicons.org/python/c77dff" width="50" alt="Python"/><br/>
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=rust&logoColor=c77dff" alt="Rust"/><br/>
+      <img src="https://cdn.simpleicons.org/rust/c77dff" width="50" alt="Rust"/><br/>
       <sub><b>Rust</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=mysql&logoColor=c77dff" alt="MySQL"/><br/>
+      <img src="https://cdn.simpleicons.org/mysql/c77dff" width="50" alt="MySQL"/><br/>
       <sub><b>MySQL</b></sub>
     </td>
   </tr>
@@ -94,19 +94,19 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=linux&logoColor=c77dff" alt="Linux"/><br/>
+      <img src="https://cdn.simpleicons.org/linux/c77dff" width="50" alt="Linux"/><br/>
       <sub><b>Linux</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=docker&logoColor=c77dff" alt="Docker"/><br/>
+      <img src="https://cdn.simpleicons.org/docker/c77dff" width="50" alt="Docker"/><br/>
       <sub><b>Docker</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=git&logoColor=c77dff" alt="Git"/><br/>
+      <img src="https://cdn.simpleicons.org/git/c77dff" width="50" alt="Git"/><br/>
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/%20-1a0533?style=for-the-badge&logo=googlecloud&logoColor=c77dff" alt="GCP"/><br/>
+      <img src="https://cdn.simpleicons.org/googlecloud/c77dff" width="50" alt="GCP"/><br/>
       <sub><b>Google Cloud</b></sub>
     </td>
   </tr>
