@@ -43,26 +43,34 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
 
 ### Front-end & Design
 
-![Vue.js](https://img.shields.io/badge/Vue.js-1a0533?style=for-the-badge&logo=vuedotjs&logoColor=c77dff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=c77dff)
-![Figma](https://img.shields.io/badge/Figma-1a0533?style=for-the-badge&logo=figma&logoColor=c77dff)
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="Figma"/></a>
+
+<sub>Vue.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figma</sub>
 
 ### Back-end & Architecture
 
-![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=nodedotjs&logoColor=c77dff)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=c77dff)
-![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c77dff)
-![Rust](https://img.shields.io/badge/Rust-1a0533?style=for-the-badge&logo=rust&logoColor=c77dff)
-![MySQL](https://img.shields.io/badge/MySQL-1a0533?style=for-the-badge&logo=mysql&logoColor=c77dff)
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="60" alt="Rust"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/></a>
+
+<sub>Node.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rust &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL</sub>
+
+<br/>
 
 ![REST APIs](https://img.shields.io/badge/Architecture-REST%20APIs-7B2FBE?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Infra & DevOps
 
-![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=c77dff)
-![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=c77dff)
-![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=c77dff)
-![GCP](https://img.shields.io/badge/Google_Cloud-1a0533?style=for-the-badge&logo=googlecloud&logoColor=c77dff)
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="GCP"/></a>
+
+<sub>Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google Cloud</sub>
 
 </div>
 
