@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Gabriel%20Alves&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Design%20%2B%20Code%20%2B%20Infra&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:7B2FBE,100:c77dff&height=220&section=header&text=Gabriel%20Alves&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Design%20%2B%20Code%20%2B%20Infra&descAlignY=55&descSize=18" width="100%" />
 
   <br/>
 
@@ -42,17 +42,27 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
 <div align="center">
 
 ### 🎨 Front-end & Design
-<img src="https://skillicons.dev/icons?i=vue,js,figma&theme=dark" alt="Front-end" />
+
+![Vue.js](https://img.shields.io/badge/Vue.js-1a0533?style=for-the-badge&logo=vuedotjs&logoColor=c77dff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=c77dff)
+![Figma](https://img.shields.io/badge/Figma-1a0533?style=for-the-badge&logo=figma&logoColor=c77dff)
 
 ### ⚙️ Back-end & Architecture
-<img src="https://skillicons.dev/icons?i=nodejs,ts,python,rust,mysql&theme=dark" alt="Back-end" />
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=nodedotjs&logoColor=c77dff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=c77dff)
+![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c77dff)
+![Rust](https://img.shields.io/badge/Rust-1a0533?style=for-the-badge&logo=rust&logoColor=c77dff)
+![MySQL](https://img.shields.io/badge/MySQL-1a0533?style=for-the-badge&logo=mysql&logoColor=c77dff)
 
-<img src="https://img.shields.io/badge/Architecture-REST%20APIs-7B2FBE?style=for-the-badge&logo=postman&logoColor=white" alt="REST API">
+![REST APIs](https://img.shields.io/badge/⚡_REST_APIs-7B2FBE?style=for-the-badge&logoColor=white)
 
 ### 🛠️ Infra & DevOps
-<img src="https://skillicons.dev/icons?i=linux,docker,git,gcp&theme=dark" alt="Infra" />
+
+![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=c77dff)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=c77dff)
+![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=c77dff)
+![GCP](https://img.shields.io/badge/Google_Cloud-1a0533?style=for-the-badge&logo=googlecloud&logoColor=c77dff)
 
 </div>
 
@@ -62,11 +72,11 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsanbs&bg_color=0d1117&color=7B2FBE&line=7B2FBE&point=FFFFFF&area=true&area_color=7B2FBE&hide_border=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsanbs&bg_color=0d1117&color=7B2FBE&line=c77dff&point=FFFFFF&area=true&area_color=7B2FBE&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution Graph" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielsanbs&theme=midnight-purple&hide_border=true&background=0d1117&ring=7B2FBE&fire=9D4EDD&currStreakLabel=7B2FBE" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielsanbs&theme=midnight-purple&hide_border=true&background=0d1117&ring=7B2FBE&fire=c77dff&currStreakLabel=c77dff&sideLabels=c77dff&dates=8B8B8B" alt="GitHub Streak" />
 
 </div>
 
@@ -100,6 +110,6 @@ Meu foco atual: **arquitetura de APIs REST**, **DevOps** e encontrar um estágio
 
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:7B2FBE,100:c77dff&height=100&section=footer" width="100%" />
 
 </div>
