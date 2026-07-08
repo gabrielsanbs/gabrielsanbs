@@ -82,6 +82,20 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
 
 <br/>
 
+## Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielsanbs/gabrielsanbs/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielsanbs/gabrielsanbs/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielsanbs/gabrielsanbs/output/github-snake-dark.svg" />
+  </picture>
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
