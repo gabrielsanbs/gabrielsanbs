@@ -81,8 +81,8 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
       <sub><b>Rust</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/mysql/c77dff" width="50" alt="MySQL"/><br/>
-      <sub><b>MySQL</b></sub>
+      <img src="https://cdn.simpleicons.org/postgresql/c77dff" width="50" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
     </td>
   </tr>
 </table>
