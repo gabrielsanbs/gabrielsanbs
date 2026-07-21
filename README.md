@@ -73,10 +73,6 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/python/c77dff" width="50" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/rust/c77dff" width="50" alt="Rust"/><br/>
       <sub><b>Rust</b></sub>
     </td>
@@ -108,6 +104,10 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/googlecloud/c77dff" width="50" alt="GCP"/><br/>
       <sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/amazonaws/c77dff" width="50" alt="AWS"/><br/>
+      <sub><b>AWS</b></sub>
     </td>
   </tr>
 </table>
