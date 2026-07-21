@@ -105,6 +105,10 @@ Currently focused on: **REST API architecture**, **DevOps**, and finding an inte
       <img src="https://cdn.simpleicons.org/googlecloud/c77dff" width="50" alt="GCP"/><br/>
       <sub><b>Google Cloud</b></sub>
     </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/gabrielsanbs/gabrielsanbs/main/assets/aws.svg" width="50" alt="AWS"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
   </tr>
 </table>
 
